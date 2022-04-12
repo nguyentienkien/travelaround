@@ -1,0 +1,64 @@
+@media screen and (max-width:992px) and (min-width:768px){
+    #h1{
+        width:1520px;
+        height:50px;
+        margin-top:10px;
+        display: flex;
+        justify-content: space-between;
+        background-color: darkgray;
+    }
+    .link
+    {
+        list-style: none;
+        margin-left: 30px;
+        margin-right: 30px;
+        display:inline;
+        font-size: 5px;
+    }
+    #anhdau{
+        height:0px;
+        width:0px;
+    }
+    #i1{
+        height:0px;
+        width: 0px;
+    }
+    #i2{
+        height:0px;
+        width: 0px;
+    }
+    #i3{
+        height:0px;
+        width: 0px;
+    }
+    #i4{
+        height:0px;
+        width: 0px;
+    }
+    #i5{
+        height:0px;
+        width: 0px;
+    }
+    .TPC{
+        font-size: 0px;
+    }
+    #h456tablet{
+        display: flex;
+        flex-direction: row;
+    }
+    #i1tablet{
+        margin-left:50px;
+        margin-top:-200px;
+    }
+    #i2tablet{
+        margin-left:20px;
+        margin-top:-200px;
+    }
+    .im{
+        height:0px;
+        width:0px;
+    }
+    .Tm{
+        font-size: 0px;
+    }
+}

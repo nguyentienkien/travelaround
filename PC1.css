@@ -1,0 +1,77 @@
+@media screen and (min-width: 992px){
+#h1{
+    width:1520px;
+    height:50px;
+    margin-top:10px;
+    display: flex;
+    justify-content: space-between;
+}
+.link
+{
+    list-style: none;
+    margin-left: 30px;
+    margin-right: 30px;
+    display:inline
+}
+#h2{
+    width:1520px;
+    height:500px;
+    margin-top:5px;
+}
+#anhdau{
+    width:1520px;
+    height:500px;
+}
+#h3{
+    width:1520px;
+    height:80px;
+    margin-top:5px;
+    margin-left:50px;
+}
+#h456PC{
+    display: flex;
+    flex-direction: row;
+   
+}
+#h4{
+    width:450px;
+    height:300px;
+    margin-top:5px;
+    margin-left:50px;
+  
+}
+#h5{
+    width:450px;
+    height:300px;
+    margin-top:5px;
+    margin-left:30px;
+    
+}
+#i5{
+    height:335px;
+}
+#h6{
+   width:450px;
+   height:300px;
+   margin-top:5px;
+   margin-left:30px;
+}
+.TT{
+    font-size: 0px;
+}
+.it{
+    width:0px;
+    height:0px;
+}
+.lonhon768{
+    font-size: 0px;
+}
+.im{
+    height:0px;
+    width:0px;
+}
+.Tm{
+    font-size: 0px;
+}
+
+}
